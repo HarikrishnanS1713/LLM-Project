@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Streamlit secrets
+.streamlit/secrets.toml
